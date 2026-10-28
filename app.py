@@ -1,3 +1,4 @@
+# KR2: Talov
 import os
 import socket
 
